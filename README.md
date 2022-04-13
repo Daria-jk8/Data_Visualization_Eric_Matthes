@@ -2,36 +2,16 @@
 
 ### Python Crash Course,  2nd Edition: A Hands-On, Project-Based Introduction To Programming 
 --------
-## Project 1  :fire: --> Alien Invasion 
+## Project 2  :fire: --> Data Visualization
 -------
- - Python, Pygame, VSCode
- - Alien, bullet, ship, alien invasion :alien: :rocket: 🛸 👾
+ - Python, Matplotlib, Plotly, .csv, .json, API,
+ - Square Numbers, RandomWalk, dice: D6, D10, Temperature(F), Earthquake, Repository, stars, GitHub rating
 -------
-
-## How to play :
-```bash
-python3 alien_invasion.py # run
-```
- - Start -> press "PLAY"
- - Drop the game or Exit -> press "ESCAPE"
- - Swipe left or right and shoot down all enemies
- - You can scroll left or right with k_LEFT and k_RIGHT
- - Use SPACEBAR to shoot a bullet
- - After you clear the fleet of aliens, your level will be increased by 1 and a new fleet will appear
- - As your level increases your speed, the speed of the aliens for each downed alien will increase
- - You have ship_limit = 3 (your lives). If there is a collision with aliens, you have lost 1 ship and keep playing.
-- This is an endless game, there is no victory
-
 ## Result : 
-
-- screenshot; 
-- video 
-
-![Screenshot](https://media.giphy.com/media/3oGRFlpAW4sIHA02NW/giphy.gif) 
-
-![Screenshot](https://media.giphy.com/media/ckHAdLU2OmY7knUClD/giphy.gif) 
+- maps, charts and histograms,
+- vidio
+<img width="900" alt="15" src="https://user-images.githubusercontent.com/92945302/163202652-9eaca24e-d1fe-4463-b7c1-ef4b268ee533.png">
 
 
-
- 
+https://user-images.githubusercontent.com/92945302/163204415-cd1afe10-f501-470d-bed8-fbdd0be0d0e7.mp4
 
