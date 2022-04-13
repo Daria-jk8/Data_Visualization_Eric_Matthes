@@ -27,7 +27,11 @@ python3 alien_invasion.py # run
 - screenshot; 
 - video 
 
-![Screenshot](images/screenshot.png) 
+![Screenshot](https://media.giphy.com/media/3oGRFlpAW4sIHA02NW/giphy.gif) 
 
- https://user-images.githubusercontent.com/92945302/162623352-ebbed3e7-6d1e-4a0f-8ac9-449ab6df7096.mp4
+![Screenshot](https://media.giphy.com/media/ckHAdLU2OmY7knUClD/giphy.gif) 
+
+
+
+ 
 
