@@ -5,7 +5,7 @@
 ## Project 2  :fire: --> Data Visualization
 -------
  - Python, Matplotlib, Plotly, .csv, .json, API
- - Square Numbers, RandomWalk, dice: D6, D10 :game_die:, Temperature(F), Earthquake, Repository, stars:star2:, GitHub rating:trophy:
+ - Square Numbers, dice: D6, D10 :game_die:, Temperature(F), Earthquake, repository, stars:star2:, GitHub rating:trophy:
 -------
 ## Result : 
 - map, chart and histogram, 🗺️ :bar_chart::chart_with_upwards_trend::chart_with_downwards_trend:
